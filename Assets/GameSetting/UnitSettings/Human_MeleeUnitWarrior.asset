@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6d8a8dccf2a35e459e1435458becdaf, type: 3}
+  m_Name: Human_MeleeUnitWarrior
+  m_EditorClassIdentifier: 
+  _unitType: 2
+  _unitVisual: {fileID: 5821739431096649613, guid: 9946e1be26d38e74692985762c913dcd,
+    type: 3}
+  _useUnitModulesType: 020000000300000001000000
+  _unitAISetting: {fileID: 0}
