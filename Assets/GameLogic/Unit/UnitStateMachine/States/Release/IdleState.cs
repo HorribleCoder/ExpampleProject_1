@@ -19,9 +19,6 @@ namespace TestProject.DevOOP.Units.USM
         public override Type ExecuteState()
         {
             Type resultStateType = this.GetType();
-            //TODO check something trans-events
-            //capture - transition
-            if()
             //move - transition
             if(owner.GetDistanceTo() > 0.5f)
             {
